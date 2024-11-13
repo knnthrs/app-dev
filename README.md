@@ -1,4 +1,6 @@
-# app-dev
+# App-dev
 My first repository
-**One Piece**
+
+MY FAVORITE ANIME SERIES: 
+**One Piece** and
 *Jujutsu Kaisen*
